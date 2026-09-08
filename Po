@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+     <head>
+       
+         <title> Always Dream Big! </title>
+         <meta charset="utf-8">
+     </head>
+    
+    <body>
+        <h1> Dear Basketball </h1>
+        <em> 9/5/2026 <br> <br> <strong> By Siriman Singae</strong> </em>
+        <p>Growing up in a African house hold wasn't really easy especially thinking about playing sport. </p>
+        <p> I remember as Kid, I always dreamed  of playing the NBA. I would have a vision and see myself doing big things with a basketball </p>
+        <p>Basketball was more than just a game yo me. it's something that give me peace and hope motivtion, and reason to keep working hard. </p>
+        <p> Every time I stepped onto the court, I felt like I was one step closer to making my dream come true.</p>
+    
+    
+    
+    
+    </body>
+    
+    
+          
+
+
+
+
+</html>r
